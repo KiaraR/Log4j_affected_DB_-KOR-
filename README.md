@@ -13,12 +13,12 @@ I welcome contributions! Please see [`CONTRIBUTING.md`](../CONTRIBUTING.md) for 
 
 To view the full lists of vendors & software click below:
 
-[0-9](software_list_Non-Alphabet.md) [A](software_list_A.md) [B](software_list_B.md)
-[C](software_list_C.md) [D](software_list_D.md) [E](software_list_E.md)
-[F](software_list_F.md) [G](software_list_G.md) [H](software_list_H.md)
-[I](software_list_I.md) [J](software_list_J.md) [K](software_list_K.md)
-[L](software_list_L.md) [M](software_list_M.md) [N](software_list_N.md)
-[O](software_list_O.md) [P](software_list_P.md) [Q](software_list_Q.md)
-[R](software_list_R.md) [S](software_list_S.md) [T](software_list_T.md)
-[U](software_list_U.md) [V](software_list_V.md) [W](software_list_W.md)
-[X](software_list_X.md) [Y](software_list_Y.md) [Z](software_list_Z.md)
+[0-9](./software_lists/Non-Alphabet.md) [A](./software_lists/A.md) [B](./software_lists/B.md)
+[C](./software_lists/C.md) [D](./software_lists/D.md) [E](./software_lists/E.md)
+[F](./software_lists/F.md) [G](./software_lists/G.md) [H](./software_lists/H.md)
+[I](./software_lists/I.md) [J](./software_lists/J.md) [K](./software_lists/K.md)
+[L](./software_lists/L.md) [M](./software_lists/M.md) [N](./software_lists/N.md)
+[O](./software_lists/O.md) [P](./software_lists/P.md) [Q](./software_lists/Q.md)
+[R](./software_lists/R.md) [S](./software_lists/S.md) [T](./software_lists/T.md)
+[U](./software_lists/U.md) [V](./software_lists/V.md) [W](./software_lists/W.md)
+[X](./software_lists/X.md) [Y](./software_lists/Y.md) [Z](./software_lists/Z.md)
