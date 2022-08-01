@@ -4,9 +4,9 @@
 A DB of KOREAN software which is affected by Log4j vulnerability. This DB doesn't include software which is not owned by korean company. If you want to see check this DB instead: [`CISA:log4j-affected-DB`](https://github.com/cisagov/log4j-affected-db.git)
 
 ## 제보 방법(Contributing Guidelines) ##
-모든 제보를 받습니다! [`CONTRIBUTING.md`](../CONTRIBUTING.md)를 참고해주세요.
+모든 제보를 받습니다! [`CONTRIBUTING.md`](./CONTRIBUTING.md)를 참고해주세요.
 
-I welcome contributions! Please see [`CONTRIBUTING.md`](../CONTRIBUTING.md) for more details.
+I welcome contributions! Please see [`CONTRIBUTING.md`](./CONTRIBUTING.md) for more details.
 
 ## 목록(Software Lists) ##
 아래 목록표를 클릭해주세요:
