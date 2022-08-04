@@ -23,4 +23,4 @@
 NOTE : 귀사의 제품을 추가하고싶다면 ['CONTRIBUTING'](../CONTRIBUTING.md)를 참고해주세요.
 | 회사명 | 제품 | 영향받는 버전 | 패치된 버전 | 상태 | 최신업데이트날짜 | 비고 |
 | ------ | ------- | ----------------- | ---------------- | ------ | ------------ | ----- | 
-| | | | | | ||
+|알서포트(Rsupport) |RemoteCall | | |해당없음 | 2022.08.05|log4j-core 미사용 [링크](https://www.remotecall.com/kr/notices/service/rsupport-security-notice-20211212/)|
